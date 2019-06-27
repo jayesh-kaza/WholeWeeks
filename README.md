@@ -2,5 +2,6 @@
 
 To run
 
-javac Solution.java
+javac vacation.java
+
 java Solution
